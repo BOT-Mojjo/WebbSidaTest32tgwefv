@@ -1,6 +1,7 @@
-h1{
+h1 {
     text-align: center;
 }
+
 
 .container{
     display: flex;
@@ -17,7 +18,5 @@ h1{
 }
 
 p {
-    /* padding: ; */
-    justify-self: center;
-    align-self: center;
+    color: red;
 }

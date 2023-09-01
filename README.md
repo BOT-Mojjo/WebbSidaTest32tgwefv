@@ -1,1 +1,1 @@
-# THIS IS A PLACEHOLDER LMAO #
+# showcase site for our ideas
