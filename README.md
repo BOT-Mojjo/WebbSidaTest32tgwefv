@@ -1,9 +1,9 @@
-# showcase site for our ideas
+# Showcase site for our ideas
 
 ## Description
 it is a site that has two description of ideas for school project. They have 3 parts a header, a description and a picture. 
 
-## technologies
+## Technologies
 We use css and html for the project. 
 
 ## Credit 
